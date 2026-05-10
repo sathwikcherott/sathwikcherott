@@ -1,29 +1,93 @@
 # Sathwik
 
-```txt
-Communication Design Student • UI/UX • Android Development • Creative Systems
-```
+Communication Design Student • Android Developer • UI/UX Systems Thinker
+
+Focused on operational interfaces, scalable Android architecture, and product-centered design systems using Kotlin + Jetpack Compose.
+
+---
 
 ## About Me
 
-- 19 y/o Communication Design student from Kozhikode
-- Focused on UI/UX, Android development & digital experiences
-- Into PCs, networking, editing & creative systems
-- Building scalable Android apps using Kotlin + Jetpack Compose
-- Interested in clean architecture, product thinking & modern interfaces
+- Communication Design student from Kozhikode, Kerala
+- Building Android systems with Kotlin + Jetpack Compose
+- Interested in operational UI systems and scalable workflows
+- Focused on clean hierarchy, usability, and maintainable architecture
+- Passionate about technology, system design, and digital experiences
 
 ---
 
 ## Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+![Kotlin](https://img.shields.io/badge/Kotlin-121212?style=for-the-badge&logo=kotlin)
+![Android](https://img.shields.io/badge/Android-121212?style=for-the-badge&logo=android)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-121212?style=for-the-badge&logo=jetpackcompose)
+![Git](https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-121212?style=for-the-badge&logo=figma)
+
+---
+
+## Current Engineering Focus
+
+- Compose recomposition optimization
+- Stable state management
+- Modular UI architecture
+- Reusable component systems
+- Room DB consistency
+- Operational UX hierarchy
+
+---
+
+## Featured Project
+
+# PUFA Attendance Manager
+
+Operational football academy management system built using Kotlin and Jetpack Compose.
+
+### Focus Areas
+
+- Attendance management
+- Fee tracking
+- Export workflows
+- Historical editing
+- Operational UI systems
+- Scalable architecture
+- Product-focused UX
+
+---
+
+## Current Build Status
+
+Pre-production refinement and architecture optimization phase.
+
+---
+
+## Project Structure
+
+```plaintext
+app/
+├── ui/
+├── data/
+├── exports/
+├── history/
+└── utils/
+```
+
+---
+
+## Design Philosophy
+
+I prefer restrained operational interfaces with clear hierarchy, reduced visual noise, and maintainable component systems.
+
+Focus is placed on scalability, usability, and long-term structure over decorative complexity.
+
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="assets/home.png" width="220"/>
+  <img src="assets/attendance.png" width="220"/>
+  <img src="assets/history.png" width="220"/>
 </p>
 
 ---
@@ -31,37 +95,18 @@ Communication Design Student • UI/UX • Android Development • Creative Syst
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sathwikcherott&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sathwikcherott&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikcherott&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
-## Current Focus
+## Current Goals
 
-| Focus Area | Description |
-|---|---|
-| 📱 Android | Kotlin + Jetpack Compose |
-| 🎨 UI/UX | Product-focused interfaces |
-| ⚡ Systems | Scalable architecture |
-| 🖥️ PCs & Networking | Workflows & optimization |
-| 🎬 Creative | Editing & digital experiences |
+- Improve Compose architecture
+- Reduce unnecessary recompositions
+- Expand export systems
+- Refine operational UX
+- Improve scalability
 
 ---
-
-## Featured Work
-
-### ⚽ Current Project
-
-Android football academy management system focused on attendance tracking, fee management, export systems, and operational workflows.
-
-- 📅 Attendance tracking
-- 💳 Fee management
-- 📦 PDF & ZIP exports
-- 🕘 Historical editing
-- ⚡ Kotlin + Jetpack Compose
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sathwikcherott&label=Profile%20Views&color=8BAE68&style=flat" />
-</p>
