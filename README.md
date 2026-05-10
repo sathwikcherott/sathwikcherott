@@ -1,18 +1,18 @@
 # Sathwik
 
-Communication Design Student • Android Developer • UI/UX Systems Thinker
+### Communication Design Student • Android Developer • UI/UX Enthusiast
 
-Focused on operational interfaces, scalable Android architecture, and product-centered design systems using Kotlin + Jetpack Compose.
+Focused on building operational Android applications, scalable UI systems, and clean user experiences using Kotlin and Jetpack Compose.
 
 ---
 
 ## About Me
 
 - Communication Design student from Kozhikode, Kerala
-- Building Android systems with Kotlin + Jetpack Compose
+- Building Android applications with Kotlin + Jetpack Compose
 - Interested in operational UI systems and scalable workflows
-- Focused on clean hierarchy, usability, and maintainable architecture
-- Passionate about technology, system design, and digital experiences
+- Focused on clean hierarchy and maintainable architecture
+- Passionate about technology, PCs, networking, and digital systems
 
 ---
 
@@ -26,22 +26,22 @@ Focused on operational interfaces, scalable Android architecture, and product-ce
 
 ---
 
-## Current Engineering Focus
+## Current Focus
 
-- Compose recomposition optimization
+- Compose architecture refinement
 - Stable state management
-- Modular UI architecture
-- Reusable component systems
-- Room DB consistency
+- Reusable UI systems
 - Operational UX hierarchy
+- Scalable Android workflows
+- Product-centered interfaces
 
 ---
 
-## Featured Project
+# Featured Project
 
-# PUFA Attendance Manager
+## PUFA Attendance Manager
 
-Operational football academy management system built using Kotlin and Jetpack Compose.
+Operational football academy management application built using Kotlin and Jetpack Compose.
 
 ### Focus Areas
 
@@ -49,15 +49,8 @@ Operational football academy management system built using Kotlin and Jetpack Co
 - Fee tracking
 - Export workflows
 - Historical editing
-- Operational UI systems
-- Scalable architecture
-- Product-focused UX
-
----
-
-## Current Build Status
-
-Pre-production refinement and architecture optimization phase.
+- Operational dashboards
+- Structured UI systems
 
 ---
 
@@ -76,9 +69,9 @@ app/
 
 ## Design Philosophy
 
-I prefer restrained operational interfaces with clear hierarchy, reduced visual noise, and maintainable component systems.
+Focused on restrained operational interfaces with clear hierarchy, reduced visual noise, and maintainable component systems.
 
-Focus is placed on scalability, usability, and long-term structure over decorative complexity.
+Preference is given to usability, scalability, and calm interface systems over decorative complexity.
 
 ---
 
@@ -103,10 +96,16 @@ Focus is placed on scalability, usability, and long-term structure over decorati
 
 ## Current Goals
 
-- Improve Compose architecture
+- Improve Compose scalability
+- Refine operational UX systems
 - Reduce unnecessary recompositions
-- Expand export systems
-- Refine operational UX
-- Improve scalability
+- Expand export functionality
+- Improve project maintainability
+
+---
+
+## Connect
+
+[GitHub](https://github.com/sathwikcherott)
 
 ---
