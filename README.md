@@ -1,8 +1,12 @@
 # Sathwik
 
-### Communication Design Student • Android Developer • UI/UX Enthusiast
+### Communication Design Student • Android Developer • UI Systems Thinker
 
-Focused on building operational Android applications, scalable UI systems, and clean user experiences using Kotlin and Jetpack Compose.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=FF99C1&center=true&vCenter=true&width=750&lines=Building+Operational+Android+Systems;Jetpack+Compose+%2B+Kotlin;Focused+on+Scalable+UI+Architecture;Designing+Calm+Interfaces" />
+</p>
+
+Focused on building structured Android applications with scalable UI systems, operational workflows, and maintainable architecture using Kotlin and Jetpack Compose.
 
 ---
 
@@ -12,17 +16,22 @@ Focused on building operational Android applications, scalable UI systems, and c
 - Building Android applications with Kotlin + Jetpack Compose
 - Interested in operational UI systems and scalable workflows
 - Focused on clean hierarchy and maintainable architecture
-- Passionate about technology, PCs, networking, and digital systems
+- Passionate about technology, systems, PCs, and digital experiences
+- State-level sprinter with competitive athletics background
+- Strong interest in hardware, networking, optimization, and performance tuning
+- Experienced in editing, motion workflows, and creative software systems
+- Enjoy exploring product thinking, interface systems, and user behavior
+- Interested in balancing technical systems with visual clarity
 
 ---
 
 ## Tech Stack
 
-![Kotlin](https://img.shields.io/badge/Kotlin-121212?style=for-the-badge&logo=kotlin)
-![Android](https://img.shields.io/badge/Android-121212?style=for-the-badge&logo=android)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-121212?style=for-the-badge&logo=jetpackcompose)
-![Git](https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-121212?style=for-the-badge&logo=figma)
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,figma,ps,ae,pr" />
+
+</p>
 
 ---
 
@@ -34,6 +43,8 @@ Focused on building operational Android applications, scalable UI systems, and c
 - Operational UX hierarchy
 - Scalable Android workflows
 - Product-centered interfaces
+- UI consistency and maintainability
+- Android workflow optimization
 
 ---
 
@@ -49,63 +60,23 @@ Operational football academy management application built using Kotlin and Jetpa
 - Fee tracking
 - Export workflows
 - Historical editing
-- Operational dashboards
-- Structured UI systems
+- Structured operational UI
+- Scalable component systems
+- Workflow optimization
 
 ---
 
-## Project Structure
+## Engineering Interests
 
 ```plaintext
-app/
-├── ui/
-├── data/
-├── exports/
-├── history/
-└── utils/
-```
-
----
-
-## Design Philosophy
-
-Focused on restrained operational interfaces with clear hierarchy, reduced visual noise, and maintainable component systems.
-
-Preference is given to usability, scalability, and calm interface systems over decorative complexity.
-
----
-
-## Screenshots
-
-<p align="center">
-  <img src="assets/home.png" width="220"/>
-  <img src="assets/attendance.png" width="220"/>
-  <img src="assets/history.png" width="220"/>
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sathwikcherott&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikcherott&layout=compact&theme=dark&hide_border=true"/>
-</p>
-
----
-
-## Current Goals
-
-- Improve Compose scalability
-- Refine operational UX systems
-- Reduce unnecessary recompositions
-- Expand export functionality
-- Improve project maintainability
-
----
-
-## Connect
-
-[GitHub](https://github.com/sathwikcherott)
-
----
+UI Architecture
+Operational UX
+System Design
+Android Development
+Performance Optimization
+Hardware & PCs
+Networking
+Creative Systems
+Motion Design
+Product Thinking
+Workflow Systems
