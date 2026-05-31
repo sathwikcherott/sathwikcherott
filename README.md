@@ -3,7 +3,8 @@
 ### Communication Design Student • Android Developer • UI Systems Thinker
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=FF99C1&center=true&vCenter=true&width=750&lines=Building+Operational+Android+Systems;Jetpack+Compose+%2B+Kotlin;Focused+on+Scalable+UI+Architecture;Designing+Calm+Interfaces" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+<br><br>
 </p>
 
 Focused on building structured Android applications with scalable UI systems, operational workflows, and maintainable architecture using Kotlin and Jetpack Compose.
