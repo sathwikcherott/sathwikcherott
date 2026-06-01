@@ -51,15 +51,16 @@ Focused on building structured Android applications with scalable UI systems, op
 
 ## Engineering Interests
 
-```plaintext
-UI Architecture
-Operational UX
-System Design
-Android Development
-Performance Optimization
-Hardware & PCs
-Networking
-Creative Systems
-Motion Design
-Product Thinking
-Workflow Systems
+| Domain | Focus |
+|----------|----------|
+| 🎨 | UI Architecture |
+| ⚙️ | Operational UX |
+| 🏗️ | System Design |
+| 📱 | Android Development |
+| 🚀 | Performance Optimization |
+| 🖥️ | Hardware & PCs |
+| 🌐 | Networking |
+| 🎭 | Creative Systems |
+| ✨ | Motion Design |
+| 💡 | Product Thinking |
+| 🔄 | Workflow Systems |
