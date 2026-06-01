@@ -49,24 +49,6 @@ Focused on building structured Android applications with scalable UI systems, op
 
 ---
 
-# Featured Project
-
-## PUFA Attendance Manager
-
-Operational football academy management application built using Kotlin and Jetpack Compose.
-
-### Focus Areas
-
-- Attendance management
-- Fee tracking
-- Export workflows
-- Historical editing
-- Structured operational UI
-- Scalable component systems
-- Workflow optimization
-
----
-
 ## Engineering Interests
 
 ```plaintext
