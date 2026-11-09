@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="285" viewBox="0 0 960 285" role="img" aria-label="Verified snapshot: 7 public repositories; relative repository sizes for PattuBook, WhatsApp Bot, Monevo, PUFA Attendance Manager, Kanak, and Fluxpulse">
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#24292f}.muted{fill:#57606a}.bar{fill:#2da44e}.track{fill:#d8dee4}.line{stroke:#d0d7de}@media(prefers-color-scheme:dark){text{fill:#f0f6fc}.muted{fill:#8b949e}.bar{fill:#3fb950}.track{fill:#21262d}.line{stroke:#30363d}}</style>
+<text x="24" y="36" font-size="27" font-weight="700">7</text><text x="66" y="35" font-size="17">public repositories</text>
+<text x="24" y="63" font-size="14" class="muted">Repository size reported by GitHub (KiB) — not commit counts or language usage</text>
+<path class="line" d="M24 77H936" stroke-width="1"/>
+<text x="24" y="119" font-size="14">PattuBook</text><rect class="track" x="216" y="107" rx="5" width="610" height="12"/><rect class="bar" x="216" y="107" rx="5" width="610.0" height="12"/><text x="841" y="118" font-size="13" class="muted">4,028 KiB</text>
+<text x="24" y="148" font-size="14">WhatsApp Bot</text><rect class="track" x="216" y="136" rx="5" width="610" height="12"/><rect class="bar" x="216" y="136" rx="5" width="537.8" height="12"/><text x="841" y="147" font-size="13" class="muted">3,551 KiB</text>
+<text x="24" y="177" font-size="14">Monevo</text><rect class="track" x="216" y="165" rx="5" width="610" height="12"/><rect class="bar" x="216" y="165" rx="5" width="385.4" height="12"/><text x="841" y="176" font-size="13" class="muted">2,545 KiB</text>
+<text x="24" y="206" font-size="14">PUFA Attendance</text><rect class="track" x="216" y="194" rx="5" width="610" height="12"/><rect class="bar" x="216" y="194" rx="5" width="306.8" height="12"/><text x="841" y="205" font-size="13" class="muted">2,026 KiB</text>
+<text x="24" y="235" font-size="14">Kanak</text><rect class="track" x="216" y="223" rx="5" width="610" height="12"/><rect class="bar" x="216" y="223" rx="5" width="98.7" height="12"/><text x="841" y="234" font-size="13" class="muted">652 KiB</text>
+<text x="24" y="264" font-size="14">Fluxpulse</text><rect class="track" x="216" y="252" rx="5" width="610" height="12"/><rect class="bar" x="216" y="252" rx="5" width="16.5" height="12"/><text x="841" y="263" font-size="13" class="muted">109 KiB</text>
+<text x="24" y="281" font-size="12" class="muted">Snapshot checked 10 Nov 2026 · Profile repository is also counted in the total.</text>
+</svg>
