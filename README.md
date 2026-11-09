@@ -1,66 +1,43 @@
-# Saaathwikkk
-
-### Communication Design Student • Android Developer • UI Systems Thinker
+<p align="center">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Hey, I'm Sathwik — designing and building personal software." />
+</p>
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
-<br><br>
+  <strong>Communication Design Student · Android Developer · Creative Technologist</strong>
 </p>
 
-Focused on building structured Android applications with scalable UI systems, operational workflows, and maintainable architecture using Kotlin and Jetpack Compose.
+I design and build software around real problems in my everyday life. My apps are personal tools first — and I enjoy making them as thoughtfully designed, reliable, and polished as professional products.
+
+- 📱 **Development:** Kotlin, Jetpack Compose, Android Studio, local-first Android apps
+- 🎨 **Design:** Interface design, visual systems, Photoshop and motion
+- ⚙️ **Interests:** Technology, hardware, networking and optimization
 
 ---
 
-## About Me
+### Featured projects
 
-- Communication Design student from Kozhikode, Kerala
-- Building Android applications with Kotlin + Jetpack Compose
-- Interested in operational UI systems and scalable workflows
-- Focused on clean hierarchy and maintainable architecture
-- Passionate about technology, systems, PCs, and digital experiences
-- State-level sprinter with competitive athletics background
-- Strong interest in hardware, networking, optimization, and performance tuning
-- Experienced in editing, motion workflows, and creative software systems
-- Enjoy exploring product thinking, interface systems, and user behavior
-- Interested in balancing technical systems with visual clarity
+**[Kanak](https://github.com/sathwikcherott/kanak-app)** · My daily-driver personal finance app. Quick and voice expense entry, spending insights, category suggestions, and backup/restore.
 
----
+<a href="https://github.com/sathwikcherott/kanak-app"><img src="https://raw.githubusercontent.com/sathwikcherott/kanak-app/main/docs/media/kanak-readme-motion.gif" width="100%" alt="Kanak app demonstration, using illustrative sample data" /></a>
 
-## Tech Stack
+**[PattuBook](https://github.com/sathwikcherott/pattubook)** · The personal lending ledger I open whenever I lend money. Track who owes what, log repayments, and keep records organized.
 
-<p align="left">
+<a href="https://github.com/sathwikcherott/pattubook"><img src="https://raw.githubusercontent.com/sathwikcherott/pattubook/main/docs/media/ledger-motion.gif" width="100%" alt="PattuBook lending balance animation, with sample figures" /></a>
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,figma,ps,ae,pr" />
+**Other repositories:** [Fluxpulse](https://github.com/sathwikcherott/Fluxpulse) · [Monevo](https://github.com/sathwikcherott/monevo) · [PUFA Attendance Manager](https://github.com/sathwikcherott/PUFA.Attendance.Manager)
 
+### Tech & creative tools
+
+`Kotlin` · `Jetpack Compose` · `Android Studio` · `Git` · `GitHub` · `Photoshop` · `UI/UX` · `Motion Design`
+
+### GitHub, in numbers
+
+<p align="center">
+  <img src="./assets/repository-overview.svg" width="100%" alt="Verified snapshot of public repository count and relative repository sizes, November 10, 2026" />
 </p>
 
----
-
-## Current Focus
-
-- Compose architecture refinement
-- Stable state management
-- Reusable UI systems
-- Operational UX hierarchy
-- Scalable Android workflows
-- Product-centered interfaces
-- UI consistency and maintainability
-- Android workflow optimization
+> The chart shows repository storage sizes reported by GitHub, **not** programming-language shares, commit counts, or personal productivity. Snapshot: 10 November 2026. For current contributions, see my [GitHub activity](https://github.com/sathwikcherott?tab=overview).
 
 ---
 
-## Engineering Interests
-
-| Domain | Focus |
-|----------|----------|
-| 🎨 | UI Architecture |
-| ⚙️ | Operational UX |
-| 🏗️ | System Design |
-| 📱 | Android Development |
-| 🚀 | Performance Optimization |
-| 🖥️ | Hardware & PCs |
-| 🌐 | Networking |
-| 🎭 | Creative Systems |
-| ✨ | Motion Design |
-| 💡 | Product Thinking |
-| 🔄 | Workflow Systems |
+<p align="center"><sub>Design it. Build it. Use it. Refine it.</sub></p>
